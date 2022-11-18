@@ -1,6 +1,6 @@
-import NotificationButton from "./components/NotificationButton"
-import Header from "./components/Header"
-import SalesCard from "./components/SalesCard"
+import NotificationButton from "./components/NotificationButton";
+import Header from "./components/Header";
+import SalesCard from "./components/SalesCard";
 /*
   App principal para rodar os componentes
 */
@@ -20,4 +20,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

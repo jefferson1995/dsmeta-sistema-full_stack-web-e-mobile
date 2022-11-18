@@ -1,5 +1,5 @@
-import logo from '../../assets/img/logo.svg'
-import './styles.css'
+import logo from '../../assets/img/logo.svg';
+import './styles.css';
 function Header() {  // Sempre trocar o nome da class para className
     return (
         <header>
@@ -15,4 +15,4 @@ function Header() {  // Sempre trocar o nome da class para className
     )
 }
 
-export default Header
+export default Header;
